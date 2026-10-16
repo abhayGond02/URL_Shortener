@@ -1,0 +1,5 @@
+demo.zip
+**/secrets.properties
+**/target/
+.vscode/
+.idea/
